@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://www.jagannath.org/blog/wp-content/uploads/2021/02/Picture1.png)]
+[![MasterHead](https://img.magnific.com/free-photo/ai-technology-human-interaction_23-2151977843.jpg?semt=ais_hybrid&w=740&q=80)]
 
 <h1 align="center">Hi 👋, I'm Syed Mohammad Abbas</h1>
 <h3 align="center">A Highly motivated Engineering Researcher from India</h3>
