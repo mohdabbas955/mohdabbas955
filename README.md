@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://img.magnific.com/free-photo/ai-technology-human-interaction_23-2151977843.jpg?semt=ais_hybrid&w=740&q=80)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6B9U-ffrznxXHmW3Li4Mv46TVoJZmRg4OztIDn4YEQ&s=10)]
 
 <h1 align="center">Hi 👋, I'm Syed Mohammad Abbas</h1>
 <h3 align="center">A Highly motivated Engineering Researcher from India</h3>
